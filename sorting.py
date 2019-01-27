@@ -1,4 +1,4 @@
-class A:
+#class A:
 #     def show(self):
 #         print("in A show")
 # class B(A):
